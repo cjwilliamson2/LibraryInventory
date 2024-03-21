@@ -1,2 +1,2 @@
 # LibraryInventory
-Example program that maintains an inventory of books in a libray; uses operating overloading and indexers
+Example program that maintains an inventory of books in a libray; uses operator overloading and indexers
